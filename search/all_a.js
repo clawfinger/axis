@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['handletouchesbegin_1386',['handleTouchesBegin',['../d0/de0/classaxis_1_1_g_l_view.html#a5e68399910e85726fa6e9f790d4d6ee9',1,'axis::GLView']]],
+  ['handletouchescancel_1387',['handleTouchesCancel',['../d0/de0/classaxis_1_1_g_l_view.html#a9981649cdf984220cc817e48e6a10275',1,'axis::GLView']]],
+  ['handletouchesend_1388',['handleTouchesEnd',['../d0/de0/classaxis_1_1_g_l_view.html#a5016ce638b1c40ba3990ede9297a7d4e',1,'axis::GLView']]],
+  ['handletouchesmove_1389',['handleTouchesMove',['../d0/de0/classaxis_1_1_g_l_view.html#a6d8f952a39f2734bc1e4c3183cbe4b9d',1,'axis::GLView::handleTouchesMove(int num, intptr_t ids[], float xs[], float ys[], float fs[], float ms[])'],['../d0/de0/classaxis_1_1_g_l_view.html#a9afb038a29ab49a92af0a4e61ff81f48',1,'axis::GLView::handleTouchesMove(int num, intptr_t ids[], float xs[], float ys[])']]],
+  ['hasanchorpoint_1390',['hasAnchorPoint',['../d2/d70/classaxis_1_1_sprite_frame.html#a9515f614babaf006417e34af5cd24fbd',1,'axis::SpriteFrame']]],
+  ['hascenterrect_1391',['hasCenterRect',['../d2/d70/classaxis_1_1_sprite_frame.html#a8e06794b345fe235766ae4e84c5e251f',1,'axis::SpriteFrame']]],
+  ['hascontent_1392',['hasContent',['../d0/d8b/classaxis_1_1_clipping_node.html#a8fb2dbafd6b62dad5983d3af0c6e66a3',1,'axis::ClippingNode']]],
+  ['haseventlistener_1393',['hasEventListener',['../d9/d36/classaxis_1_1_event_dispatcher.html#a20e49e3b9bf59c84023b63c07d078fcf',1,'axis::EventDispatcher']]],
+  ['hasmipmaps_1394',['hasMipmaps',['../df/dbe/classaxis_1_1backend_1_1_texture_backend.html#a46416c18b84a3536b983225175f154a1',1,'axis::backend::TextureBackend::hasMipmaps()'],['../d0/d50/classaxis_1_1_texture2_d.html#a46416c18b84a3536b983225175f154a1',1,'axis::Texture2D::hasMipmaps()']]],
+  ['haspolygoninfo_1395',['hasPolygonInfo',['../d2/d70/classaxis_1_1_sprite_frame.html#aaef4f380a72a6107d6cac7288297a462',1,'axis::SpriteFrame']]],
+  ['haspremultipliedalpha_1396',['hasPremultipliedAlpha',['../d0/d50/classaxis_1_1_texture2_d.html#ad7dbaaf5705729392bcef9f5078e737b',1,'axis::Texture2D']]],
+  ['hasvertexattrib_1397',['hasVertexAttrib',['../d4/d8f/classaxis_1_1_mesh.html#ac3691a8cf2fd0df629ae71be45592e01',1,'axis::Mesh::hasVertexAttrib()'],['../d9/d7f/classaxis_1_1_mesh_vertex_data.html#ac3691a8cf2fd0df629ae71be45592e01',1,'axis::MeshVertexData::hasVertexAttrib()']]],
+  ['hbox_1398',['HBox',['../d9/d48/classaxis_1_1ui_1_1_h_box.html',1,'HBox'],['../d9/d48/classaxis_1_1ui_1_1_h_box.html#a4209b8ef063c61adc45869fd937bad95',1,'axis::ui::HBox::HBox()']]],
+  ['helper_1399',['Helper',['../d2/de0/classaxis_1_1ui_1_1_helper.html',1,'axis::ui']]],
+  ['hide_1400',['Hide',['../d1/dcb/classaxis_1_1_hide.html',1,'axis']]],
+  ['hideoutshowin_1401',['hideOutShowIn',['../d8/d0b/classaxis_1_1_transition_scene.html#a76bc78896b64ff3b919f281b2298bff4',1,'axis::TransitionScene']]],
+  ['highestatlasindexinchild_1402',['highestAtlasIndexInChild',['../de/dbf/classaxis_1_1_sprite_batch_node.html#acff0b7e958a894d0a11e365878607797',1,'axis::SpriteBatchNode']]],
+  ['hittest_1403',['hitTest',['../da/d7a/classaxis_1_1_node.html#a6f14510179b750ebf5fc388661c2a0a6',1,'axis::Node::hitTest()'],['../d9/dd6/classaxis_1_1ui_1_1_slider.html#a2d13a93fb5c688d2fe2d656dc6faa601',1,'axis::ui::Slider::hitTest()'],['../d7/d15/classaxis_1_1ui_1_1_text_field.html#a2d13a93fb5c688d2fe2d656dc6faa601',1,'axis::ui::TextField::hitTest()'],['../d6/dda/classaxis_1_1ui_1_1_widget.html#a0e3dc197d7dc825238f2f6213f31ab61',1,'axis::ui::Widget::hitTest()']]],
+  ['horizontal_1404',['HORIZONTAL',['../d8/dc7/classaxis_1_1_particle_system.html#a19f5613efb62e2454a9d953e240c13d7a86e5d0d8407ce71f7e2004ef3949894e',1,'axis::ParticleSystem']]],
+  ['horizontaledge_1405',['HorizontalEdge',['../dd/d3d/classaxis_1_1ui_1_1_layout_component.html#ab7c7f379d14036b7ba5de57976bb1872',1,'axis::ui::LayoutComponent']]],
+  ['hsl_1406',['HSL',['../d4/d1e/structaxis_1_1_h_s_l.html',1,'axis']]],
+  ['hsv_1407',['HSV',['../da/d2d/structaxis_1_1_h_s_v.html',1,'axis']]],
+  ['httpclient_1408',['HttpClient',['../d7/d5d/classaxis_1_1network_1_1_http_client.html',1,'axis::network']]],
+  ['httprequest_1409',['HttpRequest',['../d1/d1e/classaxis_1_1network_1_1_http_request.html',1,'HttpRequest'],['../d1/d1e/classaxis_1_1network_1_1_http_request.html#a785ca311f7569c57a36d9a10a7c128ea',1,'axis::network::HttpRequest::HttpRequest()']]],
+  ['httpresponse_1410',['HttpResponse',['../d0/d56/classaxis_1_1network_1_1_http_response.html',1,'HttpResponse'],['../d0/d56/classaxis_1_1network_1_1_http_response.html#a6f1638a033fc2ecb57c8d1f4124d4f14',1,'axis::network::HttpResponse::HttpResponse()']]]
+];
